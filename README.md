@@ -5,7 +5,7 @@ Thanks to works from [im2latex](https://github.com/Miffyli/im2latex-dataset) whi
 
 ## Contends
 - 'generate_data/src/generate_zephyr.py'
-  We finally decides to use zephyr based on ollama which is a small 7b fine-tuning model based on Mistral-7b to generate formulas in latex code
+  We finalwly decides to use zephyr based on ollama which is a small 7b fine-tuning model based on Mistral-7b to generate formulas in latex code
 - 'generate_data/src/generate2formulas.py'
   The script aims to format generated formulas into more readable one and can easily used.
 - 'generate_data/src/formula2image copy.py'
